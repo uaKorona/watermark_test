@@ -1,0 +1,10 @@
+# compiled output
+/dist
+/out-tsc
+/raw
+
+# dependencies
+/node_modules
+
+# IDEs and editors
+/.idea
